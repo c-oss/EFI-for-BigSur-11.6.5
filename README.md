@@ -2,12 +2,12 @@
 
 ### 配置
 
-  BOARD: MSI Z590I Unify
++ BOARD: MSI Z590I Unify
 
-  CPU: I9-10900K
++ CPU: I9-10900K
 
-  GPU: AMD RX 5600XT
++ GPU: AMD RX 5600XT
 
 ### 问题：
 
-  蓝牙连接耳机与音箱没问题，连接MX Master 3有问题。
++ 蓝牙连接耳机与音箱没问题，连接MX Master 3有问题。
